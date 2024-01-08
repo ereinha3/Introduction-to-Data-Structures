@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/itaymevorach/Documents/cs-314/ItayMevorachAssignment8",
+      "program": "/Users/itaymevorach/Documents/cs-314/ItayMevorachAssignment8/build/Debug/outDebug"
+    }
+  ]
+}
