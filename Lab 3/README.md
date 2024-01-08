@@ -1,0 +1,1 @@
+In this Lab, we were required to create a Binary Tree object with our own created methods. I constructed methods: insert, extract max/min, find node, find successor, transplant, delete, and traversals for INORDER, PREORDER, and POSTORDER. 
